@@ -83,7 +83,8 @@
 
 ### 📣 Call to Action (CTA) – Let’s Connect!
 
-If you're a **Data Science enthusiast**, **recruiter**, or **tech collaborator**, feel free to connect:
+📢 I'm open to internships, full-time opportunities, and collaborations. Let's build something impactful together!
+
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nkishorekumarreddy)
 - 📧 Email: kishorereddy5208@gmail.com  
