@@ -85,7 +85,7 @@
 
 If you're a **Data Science enthusiast**, **recruiter**, or **tech collaborator**, feel free to connect:
 
-- 🔗 [LinkedIn](www.linkedin.com/in/nkishorekumarreddy)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nkishorekumarreddy)
 - 📧 Email: kishorereddy5208@gmail.com  
 - 🌐 Portfolio: *(Coming Soon)*  
 - 💬 DM me for **collaboration**, **referrals**, or **freelance work**!
