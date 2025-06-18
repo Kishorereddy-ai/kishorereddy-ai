@@ -5,9 +5,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Com (Applications) | 📚 Data Science Trainee @ NareshIT  
-- 🌱 Currently diving deep into Machine Learning, Deep Learning & NLP  
-- 🔍 Exploring LLMs, LangChain & real-world ML Projects  
+- 🎓 **Recent B.Com (Applications) Graduate – Class of 2025** from *Avinash College of Commerce, Hyderabad*  
+- 📚 Currently undergoing **Data Science Training** at **Naresh i Technologies**  
+- ✅ Completed core modules in Machine Learning, Deep Learning & NLP  
+- 🔍 Now focusing on **Advanced Generative AI**, LLMs & LangChain  
 - 🎯 Goal: Crack a **10+ LPA** role as a Data Scientist  
 - 💬 Ask me about Python, ML, Data Analysis, or anything AI!  
 - 🧠 Fun Fact: I believe AI is not just automation, it's **amplifying human potential** 🧠💡
@@ -58,35 +59,4 @@
 | 📁 Project | 💡 Focus Area |
 |-----------|----------------|
 | `customer-churn-prediction` | ML Classification, Business Analytics |
-| `image-classification-cnn` | Deep Learning with CNN |
-| `text-generation-gpt2` | Generative NLP using Transformers |
-| `yolo-object-detection` | Real-Time Detection using YOLOv5 |
-| `movie-recommendation-system` | Clustering & Recommenders |
-
-🛠️ *Each project will include notebooks, visualizations, model explanations, and real-world insights.*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorereddy-ai&show_icons=true&theme=react" alt="Kishore's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorereddy-ai&theme=react" alt="GitHub Streak" />
-</p>
-
----
-
-### 📣 Call to Action (CTA) – Let’s Connect!
-
-If you're a **Data Science enthusiast**, **recruiter**, or **tech collaborator**, feel free to connect:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kishorereddy)
-- 📧 Email: kishorereddy5208@gmail.com  
-- 🌐 Portfolio: *(Coming Soon)*  
-- 💬 DM me for **collaboration**, **referrals**, or **freelance work**!
-
----
-
-### ⚡ Fun Fact  
-I believe Artificial Intelligence is not just about automation — it's about **amplifying human potential** 🧠💡
+|
