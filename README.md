@@ -86,7 +86,7 @@
 📢 I'm open to internships, full-time opportunities, and collaborations. Let's build something impactful together!
 
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nkishorekumarreddy)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kishorereddy-ai/)
 - 📧 Email: kishorereddy5208@gmail.com  
 - 🌐 Portfolio: *(Coming Soon)*  
 - 💬 DM me for **collaboration**, **referrals**, or **freelance work**!
