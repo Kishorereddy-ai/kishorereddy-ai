@@ -70,14 +70,15 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorereddy-ai&show_icons=true&theme=react" alt="Kishore's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorereddy-ai&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorereddy-ai&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kishorereddy-ai&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorereddy-ai&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📣 Call to Action (CTA) – Let’s Connect!
