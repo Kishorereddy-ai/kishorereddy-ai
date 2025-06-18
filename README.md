@@ -56,17 +56,15 @@
 
 ---
 
-### 📂 Project Showcase (Coming Soon)
+### 📂 Project Showcase
 
 | 📁 Project | 💡 Focus Area |
 |-----------|----------------|
-| `customer-churn-prediction` | ML Classification, Business Analytics |
-| `image-classification-cnn` | Deep Learning with CNN |
-| `text-generation-gpt2` | Generative NLP using Transformers |
-| `yolo-object-detection` | Real-Time Detection using YOLOv5 |
-| `movie-recommendation-system` | Clustering & Recommenders |
+| `eda-retail-customer-analysis` | EDA & Data Analytics – Uncovering insights from customer behavior |
+| `online-shoppers-intention-ml` | Machine Learning Classification – Predicting purchase intent |
+| `pdf-qa-generative-ai` | Generative AI with Transformers – Ask questions from PDFs using semantic search |
 
-🛠️ *Each project will include notebooks, visualizations, model explanations, and real-world insights.*
+🛠️ *Each project includes clean code, model evaluation, visualizations, and real-world applications.*
 
 ---
 
@@ -79,14 +77,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorereddy-ai&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ### 📣 Call to Action (CTA) – Let’s Connect!
 
 📢 I'm open to internships, full-time opportunities, and collaborations. Let's build something impactful together!
 
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kishorereddy-ai/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nkishorekumarreddy)
 - 📧 Email: kishorereddy5208@gmail.com  
 - 🌐 Portfolio: *(Coming Soon)*  
 - 💬 DM me for **collaboration**, **referrals**, or **freelance work**!
