@@ -1,32 +1,29 @@
-<h1 align="center">Hey there 👋, I'm Kishore Reddy</h1>
-<h3 align="center">🔍 Data Science | 🧠 Deep Learning | 🤖 Generative AI | 📍 Hyderabad, India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishorereddy-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h1 align="center">Hi 👋, I'm Kishore Reddy</h1>
+<h3 align="center">A Passionate Data Science Learner & Problem Solver</h3>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I'm a passionate and curious Data Science graduate driven by the endless possibilities of AI.  
-I love building intelligent systems that can learn, adapt, and solve real-world problems.
-
-📬 **I'm actively seeking internships or entry-level roles in Data Science or AI.**  
-If you're working on something exciting or hiring, let's connect and collaborate!
+- 🎓 B.Com (Applications) | 📚 Data Science Trainee @ NareshIT  
+- 🌱 Currently diving deep into Machine Learning, Deep Learning & NLP  
+- 🔍 Exploring LLMs, LangChain & real-world ML Projects  
+- 🎯 Goal: Crack a **10+ LPA** role as a Data Scientist  
+- 💬 Ask me about Python, ML, Data Analysis, or anything AI!  
+- 🧠 Fun Fact: I believe AI is not just automation, it's **amplifying human potential** 🧠💡
 
 ---
 
-### 🔧 Tech Stack (with Badges)
+### 🛠 Tech Stack
 
 #### 📊 Data & Analysis  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D7188?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### 🧠 Machine & Deep Learning  
@@ -34,9 +31,13 @@ If you're working on something exciting or hiring, let's connect and collaborate
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F91?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-0066A1?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-8E44AD?style=for-the-badge)
 
 #### 💬 NLP & Generative AI  
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-91DC5A?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-Huggingface-yellow?style=for-the-badge)
 ![TextBlob](https://img.shields.io/badge/TextBlob-FF8C00?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
@@ -76,11 +77,14 @@ If you're working on something exciting or hiring, let's connect and collaborate
 
 ---
 
-### 🤝 Connect with Me
+### 📣 Call to Action (CTA) – Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kishorereddy)  
-- 📧 kishorereddy5208@gmail.com  
-- 🌐 Portfolio Website *(Coming Soon)*
+If you're a **Data Science enthusiast**, **recruiter**, or **tech collaborator**, feel free to connect:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kishorereddy)
+- 📧 Email: kishorereddy5208@gmail.com  
+- 🌐 Portfolio: *(Coming Soon)*  
+- 💬 DM me for **collaboration**, **referrals**, or **freelance work**!
 
 ---
 
